@@ -24,9 +24,23 @@ div {
   margin-right: 20px;
 }
 
+.div-body {
+  font-family: "Bender";
+  font-weight: normal;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
 .div-copyright {
   font-family: "Bender";
   font-weight: light;
   font-size: 15px;
   text-align: center;
+}
+
+hr {
+  margin-left: 150px;
+  margin-right: 150px;
 }
