@@ -13,6 +13,7 @@ h1 {
   font-weight: bolder;
   font-size: 60px;
   text-align: center;
+  color: white;
 }
 
 .h1-smallheader {
@@ -30,6 +31,7 @@ div {
   text-align: left;
   margin-left: 20px;
   margin-right: 20px;
+  color: white;
 }
 
 .body-small {
@@ -39,6 +41,7 @@ div {
   text-align: left;
   margin-left: 250px;
   margin-right: 250px;
+  color: white;
 }
 
 .div-body {
@@ -47,7 +50,8 @@ div {
   font-size: 20px;
   text-align: left;
   margin-left: 250px;
-  margin-right: 250px;
+  margin-right: 250px
+  color: white;
 }
 
 .div-copyright {
@@ -55,6 +59,7 @@ div {
   font-weight: light;
   font-size: 15px;
   text-align: center;
+  color: white;
 }
 
 hr {
